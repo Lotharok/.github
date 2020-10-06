@@ -1,0 +1,11 @@
+{
+    "name": ".Net Core Workflow",
+    "description": ".Net Core CI workflow template.",
+    "iconName": "net-core-ci",
+    "categories": [
+        "C#"
+    ],
+    "filePatterns": [
+        ".Net Core"
+    ]
+}
